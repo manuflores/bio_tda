@@ -4,7 +4,7 @@
 
 Jupyter notebooks to do exploratory data analysis 
 
-#### Processing 
+#### Processing 
 
 Noteboks running processing to transform data into visualization-ready format. 
 
