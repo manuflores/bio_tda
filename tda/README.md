@@ -1,3 +1,3 @@
 ### Topological Data Analysis
 
-Software module with wrapper functions to make topological data analysis in Python.
+Software module with wrapper functions for TDA in Python.
