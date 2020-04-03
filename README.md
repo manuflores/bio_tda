@@ -1,4 +1,4 @@
-## A First Deep Insight on Topological Analysis of Biological Data
+## First Insights on Topological Analysis of Biological Data
 
 Repository to play around with TDA tools using biological data. 
 
